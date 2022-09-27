@@ -19,6 +19,8 @@ body{
     margin: 20px auto;
     box-shadow: 5px 10px 8px hsl(225, 63%, 79%) ;
 }
+h1{
+    font-size :20px;}
 h2{
     margin-bottom: 10px;
 }
